@@ -1,3 +1,4 @@
+
 const RATE_DATA = [
   // AIRPORTS
   {city:"JFK – John F. Kennedy",region:"Airports",price:110},
